@@ -1,0 +1,7 @@
+streamlit
+   librosa
+   numpy
+   joblib
+   SpeechRecognition
+   nltk==3.6.5
+   textblob
